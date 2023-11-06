@@ -19,6 +19,12 @@ This Python script translates text into Morse code and vice versa. It's a simple
 To translate text to Morse code, run the following command:
 
 ```bash
-python morse_code_translator.py text_to_morse "Your text goes here"
+python Morse_Code_Translator.py text_to_morse "Your text goes here"
+```
 
-python morse_code_translator.py morse_to_text "... --- ..- .-. -"
+### Translating Morse Code To Text
+
+To  Translate Morse Code To Text, run the following command:
+
+```bash 
+python Morse_Code_Translator.py morse_to_text "-.-. .... .-. .. ... - -- .- ..."
